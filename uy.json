@@ -111,7 +111,9 @@
         "ssl_error": 0,
         "geo_lat": null,
         "geo_long": null,
-        "has_extended_info": false
+        "has_extended_info": false,
+        "frequency": 101.9,
+        "modulation_method": "FM"
     },
     {
         "changeuuid": "ec8f7d7e-783b-4dd9-a211-faedbbe2598e",
@@ -415,7 +417,9 @@
         "ssl_error": 0,
         "geo_lat": null,
         "geo_long": null,
-        "has_extended_info": false
+        "has_extended_info": false,
+        "frequency": 99.5,
+        "modulation_method": "FM"
     },
     {
         "changeuuid": "53033b53-5ee1-4caa-8c9a-a5cc747f4d58",
